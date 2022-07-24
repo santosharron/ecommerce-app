@@ -1,6 +1,9 @@
-# ecommerceapp
+# E-Commerce App
+Learn how to build an e-commerce app for shopping using the flutter tutorial for iOS and Android. This tutorial covers a complete shopping cart, placing orders, signup or registration, sign-in or login, and payment. 
 
-A new Flutter project.
+### Stable App Version - 1.6.1 
+
+![Preview](https://i.imgur.com/fetVIQC.png)
 
 ## Getting Started
 
