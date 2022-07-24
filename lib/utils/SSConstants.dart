@@ -1,0 +1,1 @@
+const isDarkModeOnPref = 'isDarkModeOnPref';
